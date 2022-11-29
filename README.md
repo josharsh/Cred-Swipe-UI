@@ -1,4 +1,4 @@
-# CRED Mobile: Harsh Joshi
+# CRED Swipe Animation
 
 ### What?
 
