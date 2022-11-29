@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRED</string>
+    <string name="cred_logo_cd">CRED Logo</string>
+    <string name="swipe_down_icon_cd">Swipe Down Icon</string>
+    <string name="retry_icon_cd">Retry Icon</string>
+    <string name="default_error_message">Something Went Wrong</string>
+    <string name="default_error_subtitle">Please try again</string>
+</resources>
