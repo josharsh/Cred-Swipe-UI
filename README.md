@@ -28,7 +28,7 @@ Design and implement a working pull-down animation.
 
 ### UI Anatomy:
 
-![Untitled](CRED%20Mobile%20Harsh%20Joshi%20d4b3d82beb324373b232553a5b4704f6/Untitled.png)
+![UI Anatomy](https://user-images.githubusercontent.com/26869672/204601377-36131540-d640-4a84-b3f4-b10f1fb4eabf.png)
 
 ### Core Code Organisation
 
